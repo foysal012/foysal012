@@ -1,83 +1,84 @@
 <h1 align="center">Hi 👋, I'm Foysal Joarder</h1>
-<h3 align="center">Passionate Software Developer from Bangladesh</h3>
+<h3 align="center">Flutter Developer at Playon24 | Passionate about creating scalable and beautiful mobile applications</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=foysal012&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### 💫 About Me
+Hello! I'm **Foysal Joarder**, a passionate **Flutter Developer** from **Bangladesh**, currently working at **Playon24**.  
+I love building modern, efficient, and user-friendly mobile applications.  
+
+- 🌱 Currently exploring **Flutter, Dart, and Clean Architecture**  
+- 💬 Ask me about **Flutter, REST APIs, and Firebase Integration**  
+- 📫 Reach me at **foysaljoarder012@gmail.com**
+
+---
+
+### 🧠 My Expertise
+
+| Area | Skills |
+|------|--------|
+| 📝 Programming | Dart, Java, Object-Oriented Programming |
+| 🚀 State Management | Provider, GetX, BLoC |
+| 🌐 APIs & Backend | RESTful APIs, Firebase Integration |
+| 💾 Databases | SQFLite, Hive |
+| 🎨 UI/UX | Responsive Design, Figma |
+| 🗺️ Maps & Location | Google Maps Integration |
+| 💰 Payment Systems | Payment Gateway Integration |
+| 🏗️ Architecture | MVC, MVVM |
+| ⚙️ Tools | Git, Postman, VS Code, Android Studio |
+
+---
+
+### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=foysal012&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
-
-- 🌱 Currently exploring **Flutter, Dart, OOP**, and related technologies.  
-- 💬 Ask me about **Flutter development**.  
-- 📫 Reach me at **foysaljoarder012@gmail.com**.  
 
 ---
 
-<h3 align="left">Connect with Me</h3>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=foysal012&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal012&layout=compact&theme=default" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal012&theme=default" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <a href="https://github.com/foysal012">
+    <img src="https://github-profile-trophy.vercel.app/?username=foysal012&theme=flat&no-frame=true&column=4" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 🤝 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/foysal_joarder" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/foysaljoarder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/foysaljoarder/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://github.com/foysal012" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/joarder.f" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://figma.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  <a href="https://www.facebook.com/foysal.joarder.5055" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
-
----
-
-<h3 align="left">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foysal012&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foysal012&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal012&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
----
-
-<h3 align="center">🏅 GitHub Achievements</h3>
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" height="80" title="Pull Shark 🦈">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" height="80" title="Quickdraw ⚡">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" height="80" title="Pair Extraordinaire 🤝">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" height="80" title="Starstruck 🌟">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="80" height="80" title="Heart On Your Sleeve ❤️">
-</p>
-
----
-
-<p align="center">✨ Keep Coding. Keep Building. Keep Growing. ✨</p>
