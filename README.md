@@ -58,13 +58,26 @@
 
 <h3 align="left">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foysal012&show_icons=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foysal012&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foysal012&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=foysal012&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal012" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysal012&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
+
+<h3 align="center">🏅 GitHub Achievements</h3>
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" height="80" title="Pull Shark 🦈">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" height="80" title="Quickdraw ⚡">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" height="80" title="Pair Extraordinaire 🤝">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" height="80" title="Starstruck 🌟">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="80" height="80" title="Heart On Your Sleeve ❤️">
+</p>
+
+---
+
+<p align="center">✨ Keep Coding. Keep Building. Keep Growing. ✨</p>
